@@ -1,7 +1,10 @@
 pkg/*
 doc/*
+.yardopts
 .yardoc/*
 *.gem
 .bundle
 .idea
 vendor
+.rvmrc
+Gemfile.lock
