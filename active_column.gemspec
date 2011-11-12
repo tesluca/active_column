@@ -21,6 +21,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'cassandra', '~> 0.12.1'
   s.add_dependency 'simple_uuid', '~> 0.2.0'
+  s.add_dependency 'active_support', ">= 3.0"
   s.add_dependency 'rake'
 
   s.add_development_dependency 'rails', '>= 3.0'
